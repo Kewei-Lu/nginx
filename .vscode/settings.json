@@ -1,0 +1,21 @@
+{
+  "files.associations": {
+    "ngx_http_config.h": "c",
+    "ngx_http.h": "c",
+    "ngx_http_core_module.h": "c",
+    "ngx_http_request.h": "c",
+    "type_traits": "c",
+    "array": "c",
+    "string_view": "c",
+    "initializer_list": "c",
+    "utility": "c",
+    "ngx_conf_file.h": "c",
+    "ngx_core.h": "c",
+    "ngx_http_script.h": "c",
+    "ngx_config.h": "c",
+    "string": "c",
+    "*.tcc": "c",
+    "*.inc": "c",
+    "cmath": "c"
+  }
+}
